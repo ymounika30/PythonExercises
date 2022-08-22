@@ -1,0 +1,5 @@
+#Interpolate a variable into a string using format()
+a=input()
+b=input()
+print("my name is {}, my place is {}".format(a,b))
+print("my name is {1}, my place is {0}".format(a,b))
