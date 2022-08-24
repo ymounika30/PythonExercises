@@ -1,0 +1,4 @@
+Choosing names for your variables, functions, classes, and so forth can be challenging.
+You should put a fair amount of thought into your naming choices when writing code as it 
+will make your code more readable. The best way to name your objects in Python is to use 
+descriptive names to make it clear what the object represents.
