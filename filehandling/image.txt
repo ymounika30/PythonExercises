@@ -1,0 +1,6 @@
+At first glance, this could seem like a sensible choice. 
+db() could easily be an abbreviation for double. But 
+imagine coming back to this code in a few days. 
+You may have forgotten what you were trying to achieve
+with this function, and that would make guessing how 
+you abbreviated it difficult.

@@ -1,0 +1,2 @@
+The same philosophy applies to all other data types and objects in Python. 
+Always try to use the most concise but descriptive names possible.

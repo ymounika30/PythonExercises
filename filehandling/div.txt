@@ -1,0 +1,4 @@
+When naming variables, you may be tempted to choose simple, single-letter lowercase names, like x. 
+But, unless you’re using x as the argument of a mathematical function, it’s not clear what x represents. 
+Imagine you are storing a person’s name as a string, and you want to use string slicing to format their name differently. 
+You could end up with something like this:

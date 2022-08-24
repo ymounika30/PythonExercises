@@ -1,0 +1,6 @@
+e following example is much clearer.
+If you come back to this code a couple 
+of days after writing it, you’ll still 
+be able to read and understand the
+purpose of this function:
+
